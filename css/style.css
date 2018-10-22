@@ -81,7 +81,7 @@ h6 {
 }
 p {
 	font-family: 'Montserrat', sans-serif;
-	color: #b2b1b8;
+	color: #282828;
 	font-size: 18px;
 	letter-spacing: 0.5px;
 	line-height: 30px;
@@ -1621,9 +1621,9 @@ header.header-3d{
 	margin-bottom: 20px;
 }
 .portfolio-details .project-info p {
-	font-size: 12px;
+	font-size: 18px;
 	margin-bottom: 50px;
-	line-height: 18px;
+	line-height: 36px;
 }
 .portfolio-details .social-icons a {
 	font-size: 18px;
@@ -1659,8 +1659,9 @@ header.header-3d{
 	opacity: 1;
 }
 .project-info.full {
-	text-align: center;
+	text-align: left;
 	margin-bottom: 50px;
+	margin-top: 50px;
 }
 .project-info.full li {
 	width: 25%;
@@ -2764,9 +2765,9 @@ header.header-3d{
 	transform: rotate(-3deg);
 	background: #f7f7f7;
 }
-.blog-list-page {
+/*.blog-list-page {
 	background: url(../images/bg/portfolio-detail-1.png) right 50px no-repeat;
-}
+}*/
 .blog-list-page .items li {
 	width: 33.33333%;
 	float: left;
